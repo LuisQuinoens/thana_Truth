@@ -1,0 +1,6 @@
+{
+    "name": "Verify",
+    "version":"1.0",
+    "description": "Verifies a website sources",
+    "manifest_version":2
+}
